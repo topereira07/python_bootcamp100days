@@ -66,7 +66,7 @@ Throughout these 100 days, I will develop strong skills in:
 - File handling, OOP, and much more!
 
 ## 🔗 **Course Link:**
-[100 Days of Code: The Complete Python Pro Bootcamp]([https://linkedin.com/in/yourprofile](https://www.udemy.com/course/100-days-of-code/learn/lecture/19110394#overview))
+[100 Days of Code: The Complete Python Pro Bootcamp]([https://linkedin.com/in/yourprofile](https://www.udemy.com/course/100-days-of-code/learn/lecture/19110394#overview)
 
 
 Follow my journey as I tackle one Python project at a time, building cool apps and diving into Python's full potential! 🌟
