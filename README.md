@@ -1,7 +1,3 @@
-Here's a stylish and awesome README file for your GitHub Python Bootcamp project:
-
----
-
 # 🐍 **100 Days of Python Bootcamp** 🎉
 
 Welcome to my **100 Days of Python Bootcamp** repository! This project is part of an intensive Python programming course that will take me from **beginner** to **advanced**, showcasing a variety of real-world projects to master Python and its applications. 🚀
